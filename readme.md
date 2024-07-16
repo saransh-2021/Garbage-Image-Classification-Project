@@ -1,0 +1,2 @@
+**Problem Statement**   
+The goal is to develop a CNN model for garbage classification, aiming to accurately categorize images of seven distinct waste materials. By employing deep learning techniques and data augmentation, the model will facilitate waste management efforts and promote environmental awareness. The challenge lies in achieving robust classification performance across diverse waste categories while preventing overfitting. Successful implementation promises to contribute significantly to waste reduction and recycling initiatives.
